@@ -2,19 +2,19 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
-  }
-  html{
+}
+html{
     overflow-x: hidden;
     margin-right: calc(-1*(100vw - 100%));
 }
-  body{
-      display: flex;
-      align-items: center;
-      flex-direction: column;
-      background-color: #f3eded9b;
-      font-size: 1em;
-      font-weight: 600;
-      color: #000000;  
+body{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-color: #f3eded9b;
+    font-size: 1em;
+    font-weight: 600;
+    color: #000000;    
   }
   label{
       cursor: pointer;
