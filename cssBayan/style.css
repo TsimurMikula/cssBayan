@@ -74,6 +74,9 @@ body{
   .accordion__input:checked ~ .accordion__label_mem{
       display: block;
   }
+  .xx:active{
+    display: block;
+}
   .accordion__input:checked ~ label div.accordion__label_icon{
       transform: rotate(45deg);
       color:  #000000;  
